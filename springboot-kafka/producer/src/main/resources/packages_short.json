@@ -1,0 +1,8 @@
+[
+    {
+        "metadata": {"affectedNode":"LX000210","affectedEquipment":"RRU-B8-S2","affectedSite":"LX000210","alarmCategory":"FAULT","alarmGroup":"003--1143978760-SubNetwork=Rijeka,MeContext=LX000210,ManagedElement=LX000210,Equipment=1,FieldReplaceableUnit=RRU-B8-S2,RfPort=A-1460123","alarmCSN":"1460123","alarmID":"0","alarmMO":"SubNetwork=Rijeka,MeContext=LX000210,ManagedElement=LX000210,Equipment=1,FieldReplaceableUnit=RRU-B8-S2,RfPort=A","alarmNotificationType":"Minor","alarmLastSeqNo":"1460123","alarmEventTime":"2020-01-22T02:36:31+02:00","vnocAlarmID":"ERA021"}
+    },
+    {
+        "metadata": {"affectedNode":"LX000141","affectedSite":"LX000141","alarmCategory":"FAULT","alarmGroup":"003--936265541-SubNetwork=Osijek,MeContext=LX000141,ManagedElement=LX000141,ENodeBFunction=1,NbIotCell=vodice_ht-1469856","alarmCSN":"1469856","alarmID":"9175114","alarmMO":"SubNetwork=Osijek,MeContext=LX000141,ManagedElement=LX000141,ENodeBFunction=1,NbIotCell=vodice_ht","alarmNotificationType":"Major","alarmLastSeqNo":"1469856","alarmEventTime":"2020-01-22T02:36:31+02:00","vnocAlarmID":"ERA015"}
+    }
+]
